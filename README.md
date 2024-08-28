@@ -1,6 +1,6 @@
-# a-credit-card-iin-thing
+# It's a credit-card IIN thing
 
-Provides a mechanism for creating test credit card numbers for testing BIN/INN validation.
+A silly little web-app to create fake credit card numbers with specific BIN/IIN values for testing.
 
 ```shell
 npm run test --  --coverage --reporter=html
