@@ -48,6 +48,7 @@
   },
   "devDependencies": {
     "postcss": "^8.4.41",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21",
     "postcss-preset-mantine": "^1.17.0",
     "postcss-simple-vars": "^7.0.1"
   }
