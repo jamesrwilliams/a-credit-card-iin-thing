@@ -30,7 +30,7 @@ export const networks: Record<string, NetworkEntry> = {
   },
   "visa": {
     label: "Visa",
-    lengths: [13, 16, 19],
+    lengths: [16, 13, 19],
     iinRange: [4],
   },
   "visa-electron": {
